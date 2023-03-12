@@ -1,0 +1,30 @@
+_repo: The-tithe_70262
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Layman
+    gutenberg_agent_id: '51826'
+    url: http://www.gutenberg.org/2009/agents/51826
+creator:
+  author:
+    agent_name: Stewart, E. B.
+    gutenberg_agent_id: '55673'
+    url: http://www.gutenberg.org/2009/agents/55673
+description: ''
+gutenberg_issued: '2023-03-10'
+identifiers:
+  gutenberg: '70262'
+language: en
+pgterms:marc905: 20220327174944stewart
+pgterms:marc906: '1903'
+pgterms:marc907: US
+production_note: David E. Brown and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bThe Winona Publishing Co., $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The tithe
+url: http://www.gutenberg.org/ebooks/70262
