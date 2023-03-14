@@ -5,12 +5,17 @@ contributor:
     agent_name: Layman
     gutenberg_agent_id: '51826'
     url: http://www.gutenberg.org/2009/agents/51826
+covers:
+- cover_type: archival
+  image_path: 70262-h/images/cover.jpg
 creator:
   author:
     agent_name: Stewart, E. B.
     gutenberg_agent_id: '55673'
     url: http://www.gutenberg.org/2009/agents/55673
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70262#The-tithe
 gutenberg_issued: '2023-03-10'
 identifiers:
   gutenberg: '70262'
